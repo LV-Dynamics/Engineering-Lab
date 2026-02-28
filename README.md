@@ -2,63 +2,35 @@
 
 Personal engineering laboratory documenting my learning journey in:
 
-- Industrial automation
-- Control systems
-- Robotics
-- Engineering simulation
-- Aerospace fundamentals
-
-This repository contains experiments, simulations, and small projects developed while studying engineering concepts and tools.
-
----
+- scientific computing
+- control systems
+- robotics fundamentals
+- numerical simulation
+- autonomous systems
+- aerospace and orbital mechanics (long-term focus)
 
 ## Purpose
 
-The goal of this repository is to:
+This repository contains experiments, simulations, and small projects built while studying engineering, mathematics, and system modeling.
 
-- Apply theoretical knowledge through practical implementation
-- Document learning progress
-- Build technical problem-solving skills
-- Develop real engineering projects over time
+The goal is to develop strong foundations in:
 
----
+- mathematical modeling
+- system simulation
+- control theory
+- engineering software development
 
 ## Structure
 
-### Control Systems
-Models, simulations, and control theory exercises.
+- `python-basics` → scientific Python and numerical computing
+- `numerical-methods` → numerical algorithms and simulations
+- `control-systems` → system modeling and control fundamentals
+- `robotics` → robotics concepts and experiments
+- `simulations` → physical and dynamic system simulations
+- `notes` → technical notes and study summaries
 
-### Robotics
-Kinematics, motion control, and robotics experiments.
+## Approach
 
-### Automation
-Industrial automation concepts and implementations.
+Study → Implement → Document → Improve.
 
-### Simulation
-Engineering modeling and simulation tools.
-
-### Aerospace (future work)
-Orbital mechanics and space systems fundamentals.
-
----
-
-## Current Status
-
-Currently studying engineering fundamentals and building small practical projects.
-
-This repository will continuously evolve.
-
----
-
-## Tools
-
-- Python
-- MATLAB / Simulink (future)
-- C/C++ (future)
-- Simulation tools
-
----
-
-## Author
-
-Luca Villa — engineering learning journey
+All work is experimental and focused on learning.
